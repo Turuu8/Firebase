@@ -10,14 +10,6 @@ import {
 } from "https://www.gstatic.com/firebasejs/9.8.1/firebase-database.js";
 
 const firebaseConfig = {
-apiKey: "AIzaSyBDv5AKm1GQSjuCd-fOP4qgr8XU1K6ToXA",
-authDomain: "turuu-37c99.firebaseapp.com",
-databaseURL: "https://turuu-37c99-default-rtdb.firebaseio.com",
-projectId: "turuu-37c99",
-storageBucket: "turuu-37c99.appspot.com",
-messagingSenderId: "50540425756",
-appId: "1:50540425756:web:fadd6ab84a485226e165d9",
-measurementId: "G-723S43PSKN"
 };
 
 // Initialize Firebase
